@@ -7,15 +7,18 @@
 - [hook](#hook)
 - [状态管理](#state) 
 - [路由](#router)
+- [请求库](#request)
 - [类react框架](#react-like)
 - [小程序](#mp)
+- [脚手架](#cli)
 - [文章](#article)
 - [项目](#project)
 
 ### <a id="ui">ui</a>
 
 ### <a id="hook">hook</a>
-
+- *[阿里巴巴hooks](https://github.com/alibaba/hooks)*
+- 
 ### <a id="state">状态管理</a>
 - *[redux](https://github.com/reduxjs/redux)*
   - *[react-redux](https://github.com/reduxjs/react-redux)*
@@ -48,6 +51,12 @@
 - *[reach](https://github.com/reach/router)*
 
 - *[universal-router](https://github.com/kriasoft/universal-router)*
+
+### <a id="request">请求库</a>
+- *[axios](https://github.com/axios/axios)*
+- *[swr](https://github.com/vercel/swr)*
+- *[umi-request](https://github.com/umijs/umi-request)*
+- *[use-http](https://github.com/ava/use-http)*
 ### <a id="react-like">类react框架</a>
 - *[nerv](https://github.com/NervJS/nerv)*
 
@@ -60,6 +69,8 @@
 - *[remax](https://github.com/remaxjs/remax)*
 
 - *[taro](https://github.com/NervJS/taro)*
+
+### <a id="cli">脚手架</a>
 
 ### <a id="article">文章</a>
 
