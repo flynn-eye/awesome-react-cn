@@ -18,7 +18,7 @@
 
 ### <a id="hook">hook</a>
 - *[阿里巴巴hooks](https://github.com/alibaba/hooks)*
-- 
+- *[react-use](https://github.com/streamich/react-use)*
 ### <a id="state">状态管理</a>
 - *[redux](https://github.com/reduxjs/redux)*
   - *[react-redux](https://github.com/reduxjs/react-redux)*
@@ -57,6 +57,7 @@
 - *[swr](https://github.com/vercel/swr)*
 - *[umi-request](https://github.com/umijs/umi-request)*
 - *[use-http](https://github.com/ava/use-http)*
+- *[react-query](https://github.com/tannerlinsley/react-query)*
 ### <a id="react-like">类react框架</a>
 - *[nerv](https://github.com/NervJS/nerv)*
 
@@ -88,6 +89,16 @@
 
 - *[React技术揭秘](https://github.com/BetaSu/just-react)*
 - *[揭秘 React 状态管理](https://github.com/happylindz/react-state-management-tutorial)*
+- *[react源码](https://react.jokcy.me/)*
 ### <a id="project">项目</a>
+- *[一个基于React+Antd的后台管理模版](https://github.com/NLRX-WJC/react-antd-admin-template)*
+- *[react 后台管理系统解决方案](https://github.com/yezihaohao/react-admin)*
+- *[react 16 + react-router 4 + dva 2 + antd 4 后台管理 脚手架](https://github.com/LANIF-UI/dva-boot-admin)*
+- *[动态菜单配置、权限精确到按钮、通用模块；标准后台管理系统解决方案](https://github.com/javaLuo/react-admin)*
+- *[基于taro + taro-ui + redux + react-hooks + typescript 开发的网易云音乐小程序](https://github.com/lsqy/taro-music)*
+- *[一个基于React、TypeScript的高仿网易云mac客户端🎵播放器](https://github.com/uniquemo/react-netease-music)*
+- *[使用umi约定式路由多Tabs的Ant Design Pro](https://github.com/alitajs/umi-antd-pro)*
+- *[Mob - 一个有颜值的喜马拉雅桌面客户端，支持 Mac、Win 和 Linux](https://github.com/zenghongtu/Mob)*
+- *[开箱即用的中台前端/设计解决方案](https://github.com/pansyjs/react-admin)*
 
 
