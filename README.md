@@ -18,8 +18,19 @@
 
 ### <a id="state">状态管理</a>
 - *[redux](https://github.com/reduxjs/redux)*
+  - *[react-redux](https://github.com/reduxjs/react-redux)*
+  - *[redux-saga](https://github.com/redux-saga/redux-saga)*
+  - *[redux-promise-middleware](https://github.com/pburtchaell/redux-promise-middleware)*
+  - *[redux-effects](https://github.com/redux-effects/redux-effects)*
+  - *[redux-thunk](https://github.com/reduxjs/redux-thunk)*
+  - *[redux-connect](https://github.com/makeomatic/redux-connect)*
+  - *[redux-loop](https://github.com/redux-loop/redux-loop)*
+  - *[redux-side-effects](https://github.com/salsita/redux-side-effects)*
+  - *[redux-logic](https://github.com/jeffbski/redux-logic)*
+  - *[redux-observable](https://github.com/redux-observable/redux-observable)*
+  - *[redux-ship](https://github.com/clarus/redux-ship)*
 - *[mobx](https://github.com/mobxjs/mobx)*
-
+  - *[mobx-react](https://github.com/mobxjs/mobx-react)*
 - *[flux](https://github.com/facebook/flux)*
 - *[recoil](https://github.com/facebookexperimental/Recoil)*
 - *[xstate](https://github.com/davidkpiano/xstate)*
@@ -65,6 +76,7 @@
 - *[React源码解析](https://github.com/AttackXiaoJinJin/reactExplain)*
 
 - *[React技术揭秘](https://github.com/BetaSu/just-react)*
+- *[揭秘 React 状态管理](https://github.com/happylindz/react-state-management-tutorial)*
 ### <a id="project">项目</a>
 
 
