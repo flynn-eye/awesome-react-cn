@@ -3,20 +3,42 @@
 **这个仓库是一个收集react`库`,`项目`,`文章`,`插件`的中文仓库,如果有错误需要修正或者资源推荐欢迎pr**
 
 ## 目录
-- [ui](#ui)
-- [hook](#hook)
-- [状态管理](#state) 
-- [路由](#router)
-- [请求库](#request)
-- [类react框架](#react-like)
-- [小程序](#mp)
-- [脚手架](#cli)
-- [文章](#article)
-- [项目](#project)
-- [vscode插件](#vsc)
+- [awesome-react-cn](#awesome-react-cn)
+  - [目录](#目录)
+    - [<a id="ui">ui</a>](#ui)
+      - [<a id="ui-components">组件</a>](#组件)
+      - [<a id="ui-framework">组件库</a>](#组件库)
+      - [<a id="ui-layout">布局</a>](#布局)
+      - [<a id="ui-animation">动画</a>](#动画)
+      - [<a id="ui-chart">图表</a>](#图表)
+      - [<a id="ui-other">其他</a>](#其他)
+    - [<a id="hook">hook</a>](#hook)
+    - [<a id="state">状态管理</a>](#状态管理)
+    - [<a id="router">路由</a>](#路由)
+    - [<a id="other">其他</a>](#其他-1)
+    - [<a id="react-like">类react框架</a>](#类react框架)
+    - [<a id="mp">小程序</a>](#小程序)
+    - [<a id="cli">脚手架</a>](#脚手架)
+    - [<a id="article">文章</a>](#文章)
+    - [<a id="project">项目</a>](#项目)
+    - [<a id="vsc">vscode插件</a>](#vscode插件)
 
 ### <a id="ui">ui</a>
-
+#### <a id="ui-components">组件</a>
+#### <a id="ui-framework">组件库</a>
+- *[ant-design](https://github.com/ant-design/ant-design)*
+- *[geist](https://github.com/geist-org/react)*
+- *[fluent-ui](https://github.com/fluent-org/fluent-windows)*
+- *[ChatUI](https://github.com/alibaba/ChatUI)*
+- *[zent](https://github.com/youzan/zent)*
+- *[taro-ui](https://github.com/NervJS/taro-ui)*
+- *[ant-design-mobile](https://github.com/ant-design/ant-design-mobile)*
+- *[zarm](https://github.com/ZhongAnTech/zarm)*
+#### <a id="ui-layout">布局</a>
+#### <a id="ui-animation">动画</a>
+#### <a id="ui-chart">图表</a>
+#### <a id="ui-other">其他</a>
+- *[富文本braft-editor](https://github.com/margox/braft-editor)*
 ### <a id="hook">hook</a>
 - *[阿里巴巴hooks](https://github.com/alibaba/hooks)*
 - *[react-use](https://github.com/streamich/react-use)*
@@ -44,16 +66,11 @@
 - *[hox](https://github.com/umijs/hox)*
 ### <a id="router">路由</a>
 - *[react-router](https://github.com/ReactTraining/react-router)*
-
 - *[navi](https://github.com/frontarm/navi)*
-
 - *[curi](https://github.com/pshrmn/curi)*
-
 - *[reach](https://github.com/reach/router)*
-
 - *[universal-router](https://github.com/kriasoft/universal-router)*
-
-### <a id="request">请求库</a>
+### <a id="other">其他</a>
 - *[axios](https://github.com/axios/axios)*
 - *[swr](https://github.com/vercel/swr)*
 - *[umi-request](https://github.com/umijs/umi-request)*
@@ -61,17 +78,12 @@
 - *[react-query](https://github.com/tannerlinsley/react-query)*
 ### <a id="react-like">类react框架</a>
 - *[nerv](https://github.com/NervJS/nerv)*
-
 - *[inferno](https://github.com/infernojs/inferno)*
-
 - *[preact](https://github.com/preactjs/preact)*
-
 
 ### <a id="mp">小程序</a>
 - *[remax](https://github.com/remaxjs/remax)*
-
 - *[taro](https://github.com/NervJS/taro)*
-
 ### <a id="cli">脚手架</a>
 - *[umi](https://github.com/umijs/umi)* 插件化的企业级前端应用框架
 - *[next](https://github.com/vercel/next.js)*
@@ -111,4 +123,6 @@
 - *[开箱即用的中台前端/设计解决方案](https://github.com/pansyjs/react-admin)*
 - *[github聊天 React + PWA + Node(koa2) + Typescripts + Mysql + Socket.io](https://github.com/aermin/ghChat)*
 - *[📚React组件库搭建指南](https://github.com/worldzhao/react-ui-library-tutorial)*
+- *[基于 Ant Design React 的管理系统架构](https://github.com/sxfad/react-admin)*
+- *[组件可视化拖拽，页面搭建](https://github.com/brick-design/react-visual-editor)*
 ### <a id="vsc">vscode插件</a>
