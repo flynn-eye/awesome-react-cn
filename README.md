@@ -3,7 +3,7 @@
 **这个仓库是一个收集react`库`,`项目`,`文章`,`插件`的中文仓库,如果有错误需要修正或者资源推荐欢迎pr**
 
 ## 目录
-- [awesome-react-cn](#awesome-react-cn)
+awesome-react-cn
   - [目录](#目录)
     - [ui](#ui)
       - [组件](#ui-components)
