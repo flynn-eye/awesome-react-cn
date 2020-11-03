@@ -1,6 +1,6 @@
 # awesome-react-cn
 
-**这个仓库是一个收集react`库`,`项目`,`文章`,`插件`的中文仓库**
+**这个仓库是一个收集react`库`,`项目`,`文章`,`插件`的中文仓库,如果有错误需要修正或者资源推荐欢迎pr**
 
 ## 目录
 - [ui](#ui)
@@ -110,4 +110,5 @@
 - *[Mob - 一个有颜值的喜马拉雅桌面客户端，支持 Mac、Win 和 Linux](https://github.com/zenghongtu/Mob)*
 - *[开箱即用的中台前端/设计解决方案](https://github.com/pansyjs/react-admin)*
 - *[github聊天 React + PWA + Node(koa2) + Typescripts + Mysql + Socket.io](https://github.com/aermin/ghChat)*
+- *[📚React组件库搭建指南](https://github.com/worldzhao/react-ui-library-tutorial)*
 ### <a id="vsc">vscode插件</a>
