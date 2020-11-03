@@ -1,6 +1,6 @@
 # awesome-react-cn
 
-**这个仓库是一个收集react`库`,`项目`,`文章`的中文仓库**
+**这个仓库是一个收集react`库`,`项目`,`文章`,`插件`的中文仓库**
 
 ## 目录
 - [ui](#ui)
@@ -13,6 +13,7 @@
 - [脚手架](#cli)
 - [文章](#article)
 - [项目](#project)
+- [vscode插件](#vsc)
 
 ### <a id="ui">ui</a>
 
@@ -72,7 +73,14 @@
 - *[taro](https://github.com/NervJS/taro)*
 
 ### <a id="cli">脚手架</a>
-
+- *[umi](https://github.com/umijs/umi)* 插件化的企业级前端应用框架
+- *[next](https://github.com/vercel/next.js)*
+- *[ice](https://github.com/alibaba/ice)* 飞冰 基于 React.js 的通用框架
+- *[create-react-app](https://github.com/facebook/create-react-app)* React官方脚手架
+- *[dva-cli](https://github.com/dvajs/dva-cli)*
+- *[create-react-library](https://github.com/transitive-bullshit/create-react-library)* 用于创建可复用react库的CLI
+- *[electron + react + react-router + mobx + webpack 搭建的脚手架工程](https://github.com/ConardLi/electron-react)*
+- *[rax](https://github.com/alibaba/rax)* 基于react创建跨端应用
 ### <a id="article">文章</a>
 
 - *[React源码解析](https://github.com/AttackXiaoJinJin/reactExplain)*
@@ -91,6 +99,7 @@
 - *[揭秘 React 状态管理](https://github.com/happylindz/react-state-management-tutorial)*
 - *[react源码](https://react.jokcy.me/)*
 ### <a id="project">项目</a>
+- *[ant design pro](https://github.com/ant-design/ant-design-pro)*
 - *[一个基于React+Antd的后台管理模版](https://github.com/NLRX-WJC/react-antd-admin-template)*
 - *[react 后台管理系统解决方案](https://github.com/yezihaohao/react-admin)*
 - *[react 16 + react-router 4 + dva 2 + antd 4 后台管理 脚手架](https://github.com/LANIF-UI/dva-boot-admin)*
@@ -100,5 +109,5 @@
 - *[使用umi约定式路由多Tabs的Ant Design Pro](https://github.com/alitajs/umi-antd-pro)*
 - *[Mob - 一个有颜值的喜马拉雅桌面客户端，支持 Mac、Win 和 Linux](https://github.com/zenghongtu/Mob)*
 - *[开箱即用的中台前端/设计解决方案](https://github.com/pansyjs/react-admin)*
-
-
+- *[github聊天 React + PWA + Node(koa2) + Typescripts + Mysql + Socket.io](https://github.com/aermin/ghChat)*
+### <a id="vsc">vscode插件</a>
