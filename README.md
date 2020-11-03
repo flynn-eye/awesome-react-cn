@@ -4,7 +4,6 @@
 
 ## 目录
 awesome-react-cn
-  - [目录](#目录)
     - [ui](#ui)
       - [组件](#ui-components)
       - [组件库](#ui-framework)
