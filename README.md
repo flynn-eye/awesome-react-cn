@@ -34,7 +34,14 @@ awesome-react-cn
 - *[ant-design-mobile](https://github.com/ant-design/ant-design-mobile)*
 - *[zarm](https://github.com/ZhongAnTech/zarm)*
 #### <a id="ui-layout">布局</a>
+- *[flexbox-react](https://github.com/nachoaIvarez/flexbox-react)*
+- *[golden-layout](https://github.com/golden-layout/golden-layout)*
+- *[hedron](https://github.com/JSBros/hedron)*
+- *[react-grid-layout](https://github.com/STRML/react-grid-layout)*
+- *[react-colrow](https://github.com/phphe/react-colrow)*
 #### <a id="ui-animation">动画</a>
+- *[react-tweenful](https://github.com/teodosii/react-tweenful)*
+- *[tsparticles](https://github.com/matteobruni/tsparticles)*
 #### <a id="ui-chart">图表</a>
 #### <a id="ui-other">其他</a>
 - *[富文本braft-editor](https://github.com/margox/braft-editor)*
@@ -124,4 +131,5 @@ awesome-react-cn
 - *[📚React组件库搭建指南](https://github.com/worldzhao/react-ui-library-tutorial)*
 - *[基于 Ant Design React 的管理系统架构](https://github.com/sxfad/react-admin)*
 - *[组件可视化拖拽，页面搭建](https://github.com/brick-design/react-visual-editor)*
+- *[React 16.8打造精美音乐WebApp](https://github.com/sanyuan0704/react-cloud-music)*
 ### <a id="vsc">vscode插件</a>
