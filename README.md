@@ -140,3 +140,9 @@ awesome-react-cn
 - *[React 16.8打造精美音乐WebApp](https://github.com/sanyuan0704/react-cloud-music)*
 - *[About企业BI系统，数据可视化平台，主要技术：react、antd、umi、dva、es6、less等](https://github.com/mpw0311/antd-umi-sys)*
 ### <a id="vsc">vscode插件</a>
+- *[Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)*
+- *[react-redux-es6-snippets](https://marketplace.visualstudio.com/items?itemName=timothymclane.react-redux-es6-snippets)*
+- *[react-native-react-redux](https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux)*
+- *[vscode-react-typescript](https://marketplace.visualstudio.com/items?itemName=infeng.vscode-react-typescript)*
+- *[es7-react-js-snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)*
+- *[vscode-language-babel](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)*
