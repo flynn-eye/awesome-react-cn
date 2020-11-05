@@ -43,8 +43,14 @@ awesome-react-cn
 - *[react-tweenful](https://github.com/teodosii/react-tweenful)*
 - *[tsparticles](https://github.com/matteobruni/tsparticles)*
 #### <a id="ui-chart">图表</a>
+- *[React component echarts. 组件式百度图表](https://github.com/dawiwt/react-component-echarts)*
+- *[React数据可视化组件库](https://github.com/DataV-Team/DataV-React)*
+- *[visx](https://github.com/airbnb/visx)*
+- *[recharts](https://github.com/recharts/recharts)*
+- *[BizCharts](https://github.com/alibaba/BizCharts)*
 #### <a id="ui-other">其他</a>
 - *[富文本braft-editor](https://github.com/margox/braft-editor)*
+- *[qrcode.react](https://github.com/zpao/qrcode.react)*
 ### <a id="hook">hook</a>
 - *[阿里巴巴hooks](https://github.com/alibaba/hooks)*
 - *[react-use](https://github.com/streamich/react-use)*
@@ -132,4 +138,5 @@ awesome-react-cn
 - *[基于 Ant Design React 的管理系统架构](https://github.com/sxfad/react-admin)*
 - *[组件可视化拖拽，页面搭建](https://github.com/brick-design/react-visual-editor)*
 - *[React 16.8打造精美音乐WebApp](https://github.com/sanyuan0704/react-cloud-music)*
+- *[About企业BI系统，数据可视化平台，主要技术：react、antd、umi、dva、es6、less等](https://github.com/mpw0311/antd-umi-sys)*
 ### <a id="vsc">vscode插件</a>
