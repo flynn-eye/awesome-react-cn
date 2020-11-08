@@ -5,7 +5,6 @@
 ## 目录
 awesome-react-cn
   - [ui](#ui)
-    - [组件](#ui-components)
     - [组件库](#ui-framework)
     - [布局](#ui-layout)
     - [动画](#ui-animation)
@@ -23,7 +22,6 @@ awesome-react-cn
   - [vscode插件](#vsc)
 
 ### <a id="ui">ui</a>
-#### <a id="ui-components">组件</a>
 #### <a id="ui-framework">组件库</a>
 - *[ant-design](https://github.com/ant-design/ant-design)*
 - *[geist](https://github.com/geist-org/react)*
@@ -39,6 +37,8 @@ awesome-react-cn
 - *[hedron](https://github.com/JSBros/hedron)*
 - *[react-grid-layout](https://github.com/STRML/react-grid-layout)*
 - *[react-colrow](https://github.com/phphe/react-colrow)*
+- *[react-flexbox-grid](https://github.com/roylee0704/react-flexbox-grid)*
+- *[react-blocks](https://github.com/whoisandy/react-blocks/)*
 #### <a id="ui-animation">动画</a>
 - *[react-tweenful](https://github.com/teodosii/react-tweenful)*
 - *[tsparticles](https://github.com/matteobruni/tsparticles)*
