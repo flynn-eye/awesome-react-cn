@@ -107,6 +107,7 @@ awesome-react-cn
 ### <a id="article">文章</a>
 
 - *[React源码解析](https://github.com/AttackXiaoJinJin/reactExplain)*
+- *[图解React原理系列](https://github.com/7kms/react-illustration-series)*
 
 - *[基于官方 React 16.8.6 的源码并使用 TypeScript 仿写的 React](https://github.com/LuSuguru/fake-react)*
 
