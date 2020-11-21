@@ -117,8 +117,6 @@ awesome-react-cn
 
 - *[基于V16.13.1，从0实现React](https://github.com/BetaSu/react-on-the-way)*
 
-- *[React源码解析](https://github.com/AttackXiaoJinJin/reactExplain)*
-
 - *[React技术揭秘](https://github.com/BetaSu/just-react)*
 - *[揭秘 React 状态管理](https://github.com/happylindz/react-state-management-tutorial)*
 - *[react源码](https://react.jokcy.me/)*
